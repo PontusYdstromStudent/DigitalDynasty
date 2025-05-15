@@ -1,6 +1,2 @@
-function FunctionName {
-    param (
-        OptionalParameters
-    )
-    
-}
+Import-Module ./x.psm1
+Write-Host ()
