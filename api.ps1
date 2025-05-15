@@ -1,2 +1,2 @@
-Import-Module ./x.psm1
-Write-Host ()
+Import-Module ./api.psm1
+joke
